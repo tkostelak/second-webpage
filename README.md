@@ -6,12 +6,12 @@
 
 ## Description
 
-This webpage is purely informative and utilizes basic HTML and CSS. Images are embedded in the page, and there are links to outised websites that are related to the content of this page.
+This webpage is purely informative and utilizes basic HTML and CSS. Images are embedded in the page, and there are links to outside websites that are related to the content of this page.
 
 ## Setup/Installation Requirements
 
-*Clone this repository.
-*Open page in your preferred browser.
+* Clone this repository.
+* Open page in your preferred browser.
 
 ## Known Bugs
 
@@ -23,7 +23,7 @@ If you encounter any bugs or issues with the code please contact either Tyler Ko
 
 ## Technologies Used
 
-*CSS
-*HTML
+* CSS
+* HTML
 
 Copyright (c) 2016 Tyler Kostelak, Panatda Inthala**
